@@ -721,6 +721,22 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bandera",
+          "persistentUuid": "00a21b75-2fef-44f7-847a-f0d15a356216",
+          "width": 0,
+          "x": 5440,
+          "y": -160,
+          "zOrder": 40,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
